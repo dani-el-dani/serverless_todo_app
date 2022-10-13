@@ -83,7 +83,7 @@
 				{
 					"name": "Update todo",
 					"request": {
-						"method": "PUT",
+						"method": "PATCH",
 						"header": [
 							{
 								"key": "Content-Type",
@@ -246,13 +246,13 @@
 		{
 			"id": "bf208e6b-f66d-4008-9366-dd541ff65425",
 			"key": "apiId",
-			"value": "",
+			"value": "dowwn9c5ri",
 			"type": "string"
 		},
 		{
 			"id": "9bc6399a-d2bb-4f2d-9ffa-8480370d383c",
 			"key": "authToken",
-			"value": "",
+			"value": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6ImREZU9wTTVnRllCMnJUSXp0VnFpcSJ9.eyJpc3MiOiJodHRwczovL2Rldi1pNWd5LTVraS51cy5hdXRoMC5jb20vIiwic3ViIjoiZ29vZ2xlLW9hdXRoMnwxMTI2NjIxNTQ2MDM2MDgzNDAzNDYiLCJhdWQiOiJkVDJqdm5HODBQUXQxV2RoWnpJa1FDS2xDWGk3d3NyTiIsImlhdCI6MTY2NTY0NzQ0OCwiZXhwIjoxNjY1NjgzNDQ4LCJhdF9oYXNoIjoiS1BXRzhrWUI3QU5ZdnFTWFF3QWo5USIsInNpZCI6Iml6Yk5xZzdtb2tRbHlWQUN4YnJ0azBhV3h3YkdGMnVRIiwibm9uY2UiOiJ4UG9JLWN4aUQ1QXdFUTFHUVAtMTFWN2FEbTJlS3VlRyJ9.dbfORfdJFae9ZZodIxmjAteGGRHYfOAKA9n8cQMBXbd7UG8gPgXoUD2J_UeUvJ1wbVT4Ecf0BGGnDtUeasMGiEJiAH76upwspA5n5V1TmkCJm2-BzoUaN1i2ypIPkfVgeLgd7sG7T_Zghm8CujRLrcuV9LhXQV-kXYxMzmJslcjgRP0UP3NYBWeqCvXKgJ68ZPAZ3s1kIXR1_2kkPlVp3rruz5HmhUUrq1w-JYAgdPaHlvA0HfvoROox_BV0WKUpshTctHRf9sb_mksu4KVLZSX604RUfbLDGhhfC2PVF6E5vvsy0WgIJUA0DnxHdJ9eLEPhqK0cxo1klQl1-RgkSg",
 			"type": "string"
 		}
 	]
